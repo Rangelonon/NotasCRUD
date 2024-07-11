@@ -1,0 +1,36 @@
+    .navbar {
+        justify-content: space-between;
+        align-items: center;
+        background-color: rgb(93, 0, 255);
+        border-radius: 9px;
+        padding: 10px;
+        display: inline-block;
+    }
+        
+    .navbarposition {
+       background-color: white;
+       text-align: center;
+    }
+    .color1 {
+        background-color: rgb(93, 0, 255);
+    }
+
+    .formulario {
+        width: 295px;   
+        height: 410px;
+        background-color: rgb(255, 255, 193);
+        border : 1px solid rgb(183, 183, 183);
+        box-shadow: 5px 5px 10px rgb(156, 156, 156);
+        border-radius: 9px;
+        padding: 10px;
+        margin:auto;
+    }
+
+
+    .content-table {    
+        font-size: 0.9em;
+        min-width: 400px;
+        border-radius: 5px 5px 0 0;
+        margin-left: 0px;
+    }
+    
